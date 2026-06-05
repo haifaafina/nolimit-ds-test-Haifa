@@ -36,10 +36,4 @@ nolimit-ds-test-Haifa/
 │   ├── dataset.csv       # File data tiruan lokal (Teks & Label)
 │   └── requirements.txt  # Daftar pustaka & dependensi eksternal
 │
-└── README.md             # Dokumentasi proyek (File ini)
-
-    style Start fill:#4CAF50,stroke:#388E3C,stroke-width:2px,color:#FFF
-    style End fill:#F44336,stroke:#D32F2F,stroke-width:2px,color:#FFF
-    style PathA fill:#0284C7,stroke:#0369A1,stroke-width:2px,color:#FFF
-    style PathB fill:#0284C7,stroke:#0369A1,stroke-width:2px,color:#FFF
-    style CheckNetral fill:#F59E0B,stroke:#D97706,stroke-width:2px,color:#FFF
+└── README.md             # Dokumentasi proyek
